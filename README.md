@@ -1,4 +1,4 @@
-This project processes videos to detect, track, and summarize moving objects using a combination of YOLO-based object detection, custom tracking algorithms, and video summarization techniques. Below is a detailed breakdown of the current code’s functionality.
+The Adaptive Surveillance System project processes videos to detect, track, and summarize moving objects using a combination of YOLO-based object detection, custom tracking algorithms, and video summarization techniques. Below is a detailed breakdown of the current code’s functionality.
 
 Key Components of the Code
 	1.	Video Preprocessing
@@ -124,5 +124,3 @@ Challenges Addressed
 Conclusion
 
 This project effectively combines state-of-the-art object detection (YOLO) with custom tracking and summarization logic to create a robust surveillance system. Its modular design ensures scalability, and the integration with Streamlit makes it accessible for non-technical users.
-
-(So based on this explanation about this minor project can you give me an good 3 points about this project for my resume/cv )
